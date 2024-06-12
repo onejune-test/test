@@ -35,9 +35,10 @@ public class Test {
         @Override
         public void run() {
             Integer integer = threadLocal.get();
-            log.info("{}:, {}", name, integer);
+            log.info("{}:, n{}", name, integer);
         }
     }
+
 
 
 }
