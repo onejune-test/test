@@ -2,8 +2,6 @@ package com.example.demo;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.concurrent.TimeUnit;
-
 /**
  * 描述
  *
@@ -39,12 +37,6 @@ public class Test {
             Integer integer = threadLocal.get();
             log.info("{}:, {}", name, integer);
         }
-    }
-
-    private static void test(String name, int i) throws InterruptedException {
-        TimeUnit.SECONDS.sleep(2);
-        log.info("{} test, {}", name, i);
-        TimeUnit.SECONDS.sleep(2);
     }
 
 
