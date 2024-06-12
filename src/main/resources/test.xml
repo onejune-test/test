@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<response>
+
+<result>0</result>
+
+<desc>接口查询成功！</desc>
+
+<failDesc/>
+
+<list>
+
+    <node>
+
+        <OLTIP>136.149.138.43</OLTIP>
+
+        <OLTPort>C600/01/7/16</OLTPort>
+
+        <OBDName>涉县又上村FL02-OBD34</OBDName>
+
+        <OBDTerminal>2</OBDTerminal>
+
+        <UTPORT/>
+
+        <DOWNPORT/>
+
+        <ONUName>河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042</ONUName>
+
+        <ONUSNCode>1209585144</ONUSNCode>
+
+        <ONUVendor>华为技术有限公司</ONUVendor>
+
+        <ONUEPONPort>智能光猫通用模板/LAN01</ONUEPONPort>
+
+        <ONUDeviceModel>智能光猫通用模板</ONUDeviceModel>
+
+        <ConnectMode>1</ConnectMode>
+
+        <IsIntelligenceClient>1</IsIntelligenceClient>
+
+        <TextRoute>
+            涉县又上村FL02-OBD34(310SX.YSCAFL02-OBD34/2-河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042/PON01)河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042涉县又上村FL02-OBD34(310SX.YSCAFL02-OBD34/2-河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042/PON01)河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042
+        </TextRoute>
+
+        <VLAN>99</VLAN>
+
+        <OLTPort2>NA-01-7-16</OLTPort2>
+
+        <EMSID>HD_ZX01</EMSID>
+
+        <BANDID>trunk--60,0,0:3769.1308--0,0,0,0,0,0</BANDID>
+
+        <OLTRACKNO/>
+
+        <OLTSUBNENO>01</OLTSUBNENO>
+
+        <OLTSLOTNO>7</OLTSLOTNO>
+
+        <OLTPortNum>16</OLTPortNum>
+
+        <IDINEMS/>
+
+        <ONUNUMBER>5</ONUNUMBER>
+
+        <ONUSLOTNO/>
+
+        <ONUDEVICEABBREV>HW</ONUDEVICEABBREV>
+
+        <ONULOID/>
+
+        <ONUDEALFLAG>ADD</ONUDEALFLAG>
+
+        <ONUPORTNO>1</ONUPORTNO>
+
+        <ONUPort2>NA-NA-NA-1</ONUPort2>
+
+        <NATIVENAME>intelligent-template</NATIVENAME>
+
+        <ONUPORTID>0</ONUPORTID>
+
+        <ONUSUBNENO/>
+
+        <ONUTYPEID>2613</ONUTYPEID>
+
+        <BasPort>0</BasPort>
+
+        <BASSLOTNO>60</BASSLOTNO>
+
+        <BasSubSlot>0</BasSubSlot>
+
+        <BasDevice/>
+
+        <BASIP>219.148.81.7</BASIP>
+
+        <UserProperty>私网双栈</UserProperty>
+
+        <AREA>310</AREA>
+
+        <VENDOR>Zhongxing</VENDOR>
+
+        <category/>
+
+        <RES_PORT_FLAG>LAN</RES_PORT_FLAG>
+
+        <RES_TYPE_FLAG>FTTH</RES_TYPE_FLAG>
+
+        <EPONACCESSMODE/>
+
+        <TRSVLAN/>
+
+        <TRCVLAN/>
+
+        <InnerVlan>1308</InnerVlan>
+
+        <OuterVlan/>
+
+        <rate/>
+
+        <ADDS_NAME>河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802</ADDS_NAME>
+
+        <ADDR_ID>76761133</ADDR_ID>
+
+        <ISIMSNET>0</ISIMSNET>
+
+        <TELENETIPADDR/>
+
+        <VPI/>
+
+        <MN/>
+
+        <ISCGN>0</ISCGN>
+
+        <VCI/>
+
+        <GISOPTICSUBCODE>E220719403115-07-02</GISOPTICSUBCODE>
+
+        <LANCAPACITY>4</LANCAPACITY>
+
+        <trunkno>60</trunkno>
+
+        <Callsource/>
+
+        <PONMODEL>10GPON</PONMODEL>
+
+        <HeadNogroup/>
+
+        <ONUMAC/>
+
+        <ISIPTV/>
+
+
+        <OBDPORTID>131100000000001865406953</OBDPORTID>
+
+        <OBDDEVICEID>131100000000001865406929</OBDDEVICEID>
+
+    </node>
+
+    <node>
+
+        <OLTIP>136.149.138.43</OLTIP>
+
+        <OLTPort>C600/01/7/16</OLTPort>
+
+        <OBDName>涉县又上村FL02-OBD34</OBDName>
+
+        <OBDTerminal>2</OBDTerminal>
+
+        <UTPORT/>
+
+        <DOWNPORT/>
+
+        <ONUName>河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042</ONUName>
+
+        <ONUSNCode>1209585144</ONUSNCode>
+
+        <ONUVendor>华为技术有限公司</ONUVendor>
+
+        <ONUEPONPort>智能光猫通用模板/LAN01</ONUEPONPort>
+
+        <ONUDeviceModel>智能光猫通用模板</ONUDeviceModel>
+
+        <ConnectMode>1</ConnectMode>
+
+        <IsIntelligenceClient>1</IsIntelligenceClient>
+
+        <TextRoute>
+            涉县又上村FL02-OBD34(310SX.YSCAFL02-OBD34/2-河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042/PON01)河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042涉县又上村FL02-OBD34(310SX.YSCAFL02-OBD34/2-河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042/PON01)河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802/ONU-智能光猫通用模板-131303100000000245001042
+        </TextRoute>
+
+        <VLAN>99</VLAN>
+
+        <OLTPort2>NA-01-7-16</OLTPort2>
+
+        <EMSID>HD_ZX01</EMSID>
+
+        <BANDID>trunk--60,0,0:3769.1308--0,0,0,0,0,0</BANDID>
+
+        <OLTRACKNO/>
+
+        <OLTSUBNENO>01</OLTSUBNENO>
+
+        <OLTSLOTNO>7</OLTSLOTNO>
+
+        <OLTPortNum>16</OLTPortNum>
+
+        <IDINEMS/>
+
+        <ONUNUMBER>5</ONUNUMBER>
+
+        <ONUSLOTNO/>
+
+        <ONUDEVICEABBREV>HW</ONUDEVICEABBREV>
+
+        <ONULOID/>
+
+        <ONUDEALFLAG>ADD</ONUDEALFLAG>
+
+        <ONUPORTNO>1</ONUPORTNO>
+
+        <ONUPort2>NA-NA-NA-1</ONUPort2>
+
+        <NATIVENAME>intelligent-template</NATIVENAME>
+
+        <ONUPORTID>0</ONUPORTID>
+
+        <ONUSUBNENO/>
+
+        <ONUTYPEID>2613</ONUTYPEID>
+
+        <BasPort>0</BasPort>
+
+        <BASSLOTNO>60</BASSLOTNO>
+
+        <BasSubSlot>0</BasSubSlot>
+
+        <BasDevice/>
+
+        <BASIP>219.148.81.7</BASIP>
+
+        <UserProperty>私网双栈</UserProperty>
+
+        <AREA>310</AREA>
+
+        <VENDOR>Zhongxing</VENDOR>
+
+        <category/>
+
+        <RES_PORT_FLAG>LAN</RES_PORT_FLAG>
+
+        <RES_TYPE_FLAG>FTTH</RES_TYPE_FLAG>
+
+        <EPONACCESSMODE/>
+
+        <TRSVLAN/>
+
+        <TRCVLAN/>
+
+        <InnerVlan>1308</InnerVlan>
+
+        <OuterVlan/>
+
+        <rate/>
+
+        <ADDS_NAME>河北邯郸涉县更乐镇又上村FTTH57#楼2单元7层802</ADDS_NAME>
+
+        <ADDR_ID>76761133</ADDR_ID>
+
+        <ISIMSNET>0</ISIMSNET>
+
+        <TELENETIPADDR/>
+
+        <VPI/>
+
+        <MN/>
+
+        <ISCGN>0</ISCGN>
+
+        <VCI/>
+
+        <GISOPTICSUBCODE>E220719403115-07-02</GISOPTICSUBCODE>
+
+        <LANCAPACITY>4</LANCAPACITY>
+
+        <trunkno>60</trunkno>
+
+        <Callsource/>
+
+        <PONMODEL>10GPON</PONMODEL>
+
+        <HeadNogroup/>
+
+        <ONUMAC/>
+
+        <ISIPTV/>
+
+
+        <OBDPORTID>131100000000001865406953</OBDPORTID>
+
+        <OBDDEVICEID>131100000000001865406929</OBDDEVICEID>
+
+    </node>
+</list>
+
+</response>

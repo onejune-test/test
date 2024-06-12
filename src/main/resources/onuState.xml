@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<response>
+
+<result>0</result>
+
+<desc>接口查询成功！</desc>
+
+<failDesc/>
+
+<list>
+
+    <node>
+
+        <ONUID>136.149.138.43</ONUID>
+
+        <ADMINSTATE>C600/01/7/16</ADMINSTATE>
+
+        <OPERSTATE>涉县又上村FL02-OBD34</OPERSTATE>
+
+        <AUTH>2</AUTH>
+        <AUTHINFO>2</AUTHINFO>
+    </node>
+    <node>
+
+        <ONUID>136.149.138.43</ONUID>
+
+        <ADMINSTATE>C600/01/7/16</ADMINSTATE>
+
+        <OPERSTATE>涉县又上村FL02-OBD34</OPERSTATE>
+
+        <AUTH>2</AUTH>
+        <AUTHINFO>2</AUTHINFO>
+    </node>
+
+</list>
+
+</response>
